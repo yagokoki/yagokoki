@@ -1,6 +1,6 @@
 # Olá! Me chamo Yago Koki.
 
-🔎 Tenho 19 anos e estou no terceiro ano do curso de Bacharelado em Ciência e Tecnologia(BCT) pela Universidade Federal do Estado de São Paulo(UNIFESP) em São José dos Campos. Eu amo tudo relacionado a cultura geek e tenho muita vontade de ingressar no mercado da tecnologia!
+🔎 Tenho 20 anos e estou no terceiro ano do curso de Bacharelado em Ciência e Tecnologia(BCT) pela Universidade Federal do Estado de São Paulo(UNIFESP) em São José dos Campos. Eu amo tudo relacionado a cultura geek e tenho muita vontade de ingressar no mercado da tecnologia!
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/yago-koki-4185a1221/) [![Instagram](https://img.shields.io/badge/-Instagram-FFF?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/yagokoki/) [![GitHub](https://img.shields.io/badge/GitHub-FFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yagokoki)
 
