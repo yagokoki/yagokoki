@@ -4,11 +4,15 @@
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/yago-koki-4185a1221/) [![Instagram](https://img.shields.io/badge/-Instagram-FFF?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/yagokoki/) [![GitHub](https://img.shields.io/badge/GitHub-FFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yagokoki)
 
-## Habilidades
+## 💻 Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-FFF?style=for-the-badge&logo=html5&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-FFF?style=for-the-badge&logo=css3&logoColor=black) ![C](https://img.shields.io/badge/C-fff?style=for-the-badge&logo=c&logoColor=black) ![Git](https://img.shields.io/badge/GIT-fff?style=for-the-badge&logo=git&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-FFF?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-FFF?style=for-the-badge&logo=react&logoColor=black) 	![NodeJS](https://img.shields.io/badge/node.js-FFF?style=for-the-badge&logo=node.js&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-FFF?style=for-the-badge&logo=mysql&logoColor=black)
 
-## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagokoki&theme=transparent&bg_color=000&border_color=fff&show_icons=true&icon_color=fff&title_color=&text_color=FFF)
+## 🧑‍🔬 Áreas de interesse
+ - Engenharia de Software
+ - Ciência de Dados
+ - Inteligência Artificial
+ - Sistemas Complexos
 
-## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yagokoki&repo=dio-lab-open-source&bg_color=000&border_color=fffC&show_icons=true&icon_color=fff&title_color=&text_color=FFF)](https://github.com/yagokoki/dio-lab-open-source)
+## 🗒️ Minhas Contribuições
+ - Former Data and Human Resources Advisor at Scitec Jr.
+ - Software Developer and IT Analyst at Rallc Usinagem e Composto LTDA.
